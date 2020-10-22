@@ -1,10 +1,10 @@
-Everything below is a readme of the original, maybe i'll change it.... probably not. But I guess this is a great way to credit him. :D
-
 # N20RefreshRateControl
 
 XDA Page - https://labs.xda-developers.com/store/app/jdros.n20.refresh
 
 Simple app to change N20/N20 Ultra Refresh rate (Adaptive 96Hz/Adaptive 120Hz) without ADB. Thanks to Max Weinbach for finding this tweak and Rohit Shetty for testing the S20 version of this app made by SatySatsZB.
+
+Here is the original app for S20: https://labs.xda-developers.com/store/app/sszb.s20.refresh
 
 This app also includes 2 qs tiles for setting 96Hz and 120Hz. Check in your quick settings panel to add them.
 
