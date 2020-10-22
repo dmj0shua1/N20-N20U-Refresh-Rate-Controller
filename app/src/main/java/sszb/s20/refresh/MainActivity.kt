@@ -1,4 +1,4 @@
-package sszb.s20.refresh
+package jdros.n20.refresh
 
 import android.app.Activity
 import android.graphics.Color
@@ -22,9 +22,9 @@ class MainActivity : Activity() {
             .color(Color.GREEN)
             .size(18f)
             .alpha(.8f)
+
+
     }
-
-
 
 }
 

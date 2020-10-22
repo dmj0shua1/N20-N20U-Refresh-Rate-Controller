@@ -1,4 +1,4 @@
-package sszb.s20.refresh
+package jdros.n20.refresh
 
 import android.content.ContentValues
 import android.content.Context
@@ -28,6 +28,6 @@ fun setConfig(context: Context, key: String, value: String) {
 }
 
 fun Context.setRefreshRate(rate: RefreshRate) {
-    //setConfig(this, MIN_REFRESH_RATE, rate.refreshRateValue)
+    setConfig(this, MIN_REFRESH_RATE, "60.0")
     setConfig(this, PEAK_REFRESH_RATE, rate.refreshRateValue)
 }

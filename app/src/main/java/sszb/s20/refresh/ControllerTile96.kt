@@ -1,4 +1,4 @@
-package sszb.s20.refresh
+package jdros.n20.refresh
 
 import android.annotation.SuppressLint
 import android.graphics.drawable.Icon

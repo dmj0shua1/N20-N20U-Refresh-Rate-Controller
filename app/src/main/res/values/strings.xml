@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">N20/N20U Refresh Rate Control</string>
-    <string name="info">Simple app to force set refresh rate. Thanks to Max Weinbach for finding this tweak and Rohit Shetty (TechyLogy YT) for testing this app.\nDeveloped by @SatySatsZB #hex_ installer\n\n\nThis version is modified by JD Ros for Note 20 series\n\n\nThis app also includes QS tiles for changing the refresh rates. Check in your QuickSettings Panel
+    <string name="info">Simple app to force set refresh rate. Thanks to Max Weinbach for finding this tweak and Rohit Shetty (TechyLogy YT) for testing this app.\nDeveloped by @SatySatsZB #hex_ installer\n\nThis version is modified by JD Ros for Note 20 series\n\nThis app also includes QS tiles for changing the refresh rates. Check in your QuickSettings Panel
     </string>
-    <string name="fps_info">You can confirm the current FPS on the top right corner of this app. Refresh rate so go back to 60 when screen isnt touched for 5 secs and nothing is moving</string>
+    <string name="fps_info">You can confirm the current FPS on the top right corner of this app. Refresh rate will go back to 60 when screen isnt touched for 5 secs and nothing is moving. \n\n If the refresh rate indicator at the top goes haywire like 200fps or something, just restart the app or go to DisplayHz.com\n</string>
     <string name="set_120hz">Set Adaptive 120Hz</string>
     <string name="set_96hz">Set Adaptive 96Hz</string>
 </resources>
