@@ -1,10 +1,10 @@
 Everything below is a readme of the original, maybe i'll change it.... probably not. But I guess this is a great way to credit him. :D
 
-# S20RefreshRateControl
+# N20RefreshRateControl
 
-XDA Page - https://labs.xda-developers.com/store/app/sszb.s20.refresh
+XDA Page - https://labs.xda-developers.com/store/app/jdros.n20.refresh
 
-Simple app to change S20/S20+/S20 Ultra Refresh rate (96Hz/120Hz) without ADB. Thanks to Max Weinbach for finding this tweak and Rohit Shetty for testing this app.
+Simple app to change N20/N20 Ultra Refresh rate (Adaptive 96Hz/Adaptive 120Hz) without ADB. Thanks to Max Weinbach for finding this tweak and Rohit Shetty for testing the S20 version of this app made by SatySatsZB.
 
 This app also includes 2 qs tiles for setting 96Hz and 120Hz. Check in your quick settings panel to add them.
 
@@ -12,7 +12,7 @@ Info: This app targets older android sdk in order to set refresh rates without A
 
 ### Screenshots
 
-![Screenshot 1](https://labs-public-dl.xda-cdn.com/screenshots/06b0c681-93db-49ef-9ec5-ad79e8315364.png) ![Screenshot 2](https://labs-public-dl.xda-cdn.com/screenshots/b0652efc-8cd4-4ba6-ba16-10da4d4b7481.jpg)
+![Screenshot 1](https://labs-public-dl.xda-cdn.com/screenshots/9d34a0f5-6e32-4134-93ef-1d47549d4299.jpg) ![Screenshot 2](https://labs-public-dl.xda-cdn.com/screenshots/5d16fbf8-91f2-477b-9b4d-8981c9869483.jpg)
 
 
 
