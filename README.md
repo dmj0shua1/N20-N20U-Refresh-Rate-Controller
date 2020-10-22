@@ -1,3 +1,5 @@
+Everything below is a readme of the original, maybe i'll change it.... probably not. But I guess this is a great way to credit him. :D
+
 # S20RefreshRateControl
 
 XDA Page - https://labs.xda-developers.com/store/app/sszb.s20.refresh
